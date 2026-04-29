@@ -1,3 +1,0 @@
-window.onload = function () {
-    window.location.href = "../html/index.html";
-}
